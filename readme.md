@@ -3,4 +3,4 @@ This is a project done by me and my teammate Abigail Devereaux who is from the e
 The model is also written in python, with an additional function for testing team efficiencies. The paper in the repository explains the heuristics, agent behaviors, and statistical analysis of the model result. Our project is presented in the 2016 International Congress on Agent Computing in the poster session. The poster is also included in the repository.
 
 
-![alt text](https://github.com/XiaoyiYuan/TMS/blob/master/Screen%20Shot%202018-02-17%20at%2010.51.03%20PM.png)
+![alt text](https://github.com/XiaoyiYuan/TMS/blob/master/netlogo_interface.png)
